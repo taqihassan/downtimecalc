@@ -11,5 +11,4 @@ public class Datetime {
     public LocalTime getTime() {
         return LocalTime.now();
     }
-
 }
